@@ -1,6 +1,6 @@
 # En stemmeteller-prototype til Erikstad kommune - Skoleprosjekt IMI 2025, Oppdrag 4
 
-![Skjermbilde av nettsiden](./)
+![Skjermbilde av stemmeteller-nettsiden](https://github.com/sivertmh/oppdrag-stemmeteller/blob/main/dokumentasjon/stemmeteller_screenshot.png)
 
 Her har jeg laget en enkel nettside som tar inn stemmer (bare fra én person, så langt, på grunn av localstorage) og lagrer dem i nettleseren, slik at du kan se hvor mange stemmer hver av partiene har. Kommunen Erikstad eksisterer egentlig ikke, men det gjør bygden Erikstad, og befinner seg i kommunen Lødingen, så jeg modifiserte bare fargene på deres kommunevåpen for å få en egen til nettsiden.
 
